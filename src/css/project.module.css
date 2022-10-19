@@ -1,0 +1,52 @@
+.container {
+    margin-top: 0px;
+    padding: 20px 5%;
+    height: max-content;
+  }
+  
+  .heading {
+    color: #4070f4;
+    text-align: center;
+  }
+  
+  .projects{
+    width:100%;
+    display:flex;
+    justify-content: space-around;
+    align-items:center
+  }
+
+  .projects>div{
+    width:40%;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+   
+  }
+  .projects>div:hover{
+
+  }
+
+  .projectImg{
+    width:100%;
+    height:auto;
+  }
+  .projects a{
+    text-decoration: none;
+    color:black
+  }
+
+  .projectButton{
+    width:60%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+  }
+  .projectButton>button{
+    background-color: #4070f4;
+    color:white;
+    padding:3% 5%;
+    border:none;
+    border-radius:3px;
+    margin-bottom:4%
+  }
+
+  
