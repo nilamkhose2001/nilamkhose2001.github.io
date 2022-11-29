@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b5c2026b.css",
-    "main.js": "/static/js/main.1d6a3021.js",
+    "main.css": "/static/css/main.728faf6e.css",
+    "main.js": "/static/js/main.3c132392.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/ndtv.PNG": "/static/media/ndtv.9b157c5084e5964bb4cd.PNG",
     "static/media/bg.PNG": "/static/media/bg.a987b7cc74413c62c9c6.PNG",
@@ -9,12 +9,12 @@
     "static/media/fabbag.PNG": "/static/media/fabbag.9f7f8e1bdeed338b4677.PNG",
     "static/media/profile.jpeg": "/static/media/profile.a4f2a383544ef4b38a79.jpeg",
     "index.html": "/index.html",
-    "main.b5c2026b.css.map": "/static/css/main.b5c2026b.css.map",
-    "main.1d6a3021.js.map": "/static/js/main.1d6a3021.js.map",
+    "main.728faf6e.css.map": "/static/css/main.728faf6e.css.map",
+    "main.3c132392.js.map": "/static/js/main.3c132392.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b5c2026b.css",
-    "static/js/main.1d6a3021.js"
+    "static/css/main.728faf6e.css",
+    "static/js/main.3c132392.js"
   ]
 }
